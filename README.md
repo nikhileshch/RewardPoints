@@ -18,7 +18,7 @@ click on here: http://localhost:3333/swagger-ui.html#/
 ##
 ![screenshot](https://github.com/nikhileshch/RewardPoints/blob/main/images/Mock_True.PNG)
 
-**Mock=True Response as below**
+**Mock=True Response as below, we will be getting reward points for mock data data.json**
 
 ##
 ![screenshot](https://github.com/nikhileshch/RewardPoints/blob/main/images/Mock_True_Response.PNG)
