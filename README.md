@@ -33,7 +33,7 @@ click on here: http://localhost:3333/swagger-ui.html#/
 ##
 ![screenshot](https://github.com/nikhileshch/RewardPoints/blob/main/images/Mock_False_Response.PNG)
 
-**Below is the data I have posted in database, It will calculate rewardv points for amounts 10,500,500**
+**Below is the data I have posted in database, It will calculate reward points for amounts 10,500,500**
 
 ##
 ![screenshot](https://github.com/nikhileshch/RewardPoints/blob/main/images/DataBase_Amount.PNG)
