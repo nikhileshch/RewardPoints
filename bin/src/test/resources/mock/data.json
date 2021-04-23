@@ -1,0 +1,43 @@
+[
+  {
+    "transactionRef": "transactionRef1",
+    "customerID": "customerID1",
+    "amount": 1500,
+    "transactionDate": "2020-01-23"
+  },  {
+  "transactionRef": "transactionRef1",
+  "customerID": "customerID1",
+  "amount": 1500,
+  "transactionDate": "2020-01-23"
+},
+  {
+    "transactionRef": "transactionRef2",
+    "customerID": "customerID1",
+    "amount": 1200,
+    "transactionDate": "2020-02-23"
+  },
+  {
+    "transactionRef": "transactionRef3",
+    "customerID": "customerID1",
+    "amount": 1100,
+    "transactionDate": "2020-03-23"
+  },
+  {
+    "transactionRef": "transactionRef1",
+    "customerID": "customerID2",
+    "amount": 1000,
+    "transactionDate": "2020-01-23"
+  },
+  {
+    "transactionRef": "transactionRef2",
+    "customerID": "customerID2",
+    "amount": 1000,
+    "transactionDate": "2020-02-23"
+  },
+  {
+    "transactionRef": "transactionRef3",
+    "customerID": "customerID2",
+    "amount": 1000,
+    "transactionDate": "2020-03-23"
+  }
+]
