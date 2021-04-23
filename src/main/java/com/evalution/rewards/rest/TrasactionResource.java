@@ -34,7 +34,7 @@ public class TrasactionResource {
 
     @ApiOperation(value = "/findAll trasnaction", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     @GetMapping("/findAll")
-    public ResponseEntity<List<Transaction>> findAll(@RequestBody Transaction transaction) {
+    public ResponseEntity findAll(){
         List<Transaction> transactions = trasactionalService.findAll();
         return new ResponseEntity<List<Transaction>>(transactions, HttpStatus.OK);
 
